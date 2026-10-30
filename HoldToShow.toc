@@ -1,0 +1,13 @@
+## Interface: 120105, 120100, 120007, 120005, 120000
+## Title: HoldToShow
+## Notes: Hold Ctrl to show the hidden chat and quest tracker in EllesmereUI
+## Notes-ruRU: Держи Ctrl, чтобы показать скрытые чат и задания в EllesmereUI
+## Author: SLCode
+## X-Website: https://github.com/SlivaNilow/HoldToShow
+## X-License: MIT
+## Version: 1.0.0
+## Category: Interface
+## Category-ruRU: Интерфейс
+## Dependencies: EllesmereUI
+
+HoldToShow.lua

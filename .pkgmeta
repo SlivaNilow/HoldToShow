@@ -1,0 +1,5 @@
+package-as: HoldToShow
+
+ignore:
+    - .gitignore
+    - .pkgmeta
